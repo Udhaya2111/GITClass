@@ -15,4 +15,15 @@ public class Class {
 		System.out.println("dhivya");
 
 	}
+
+	private void method4() {
+		System.out.println("kannaiki");
+
+	}
+
+	private void method5() {
+		System.out.println("siva");
+
+	}
+
 }
