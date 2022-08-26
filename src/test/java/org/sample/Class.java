@@ -23,23 +23,37 @@ public class Class {
 
 	private void method5() {
 		System.out.println("siva");
-		
 
 	}
+
 	private void method6() {
 		System.out.println("dhivya");
 
 	}
 
 	private void method7() {
+
 		System.out.println("kannaiki");
 
 	}
 
 	private void method8() {
 		System.out.println("siva");
-}
+	}
+
 	private void method9() {
 		System.out.println("siva");
-}
+	}
+
+	private void method16() {
+		System.out.println("dhivya");
+
+	}
+
+	private void method17() {
+
+	}
+
+	private void method18() {
+		System.out.println("siva");
 }
